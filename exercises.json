@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Alternating Curl",
+        "muscle_group": "Biceps",
+        "movement_type": "Isolated",
+        "equipment": "DB",
+        "chain": "Anterior",
+        "difficulty": "Beginner",
+        "url": "https://vimeo.com/597302433",
+        "vimeo_id": "597302433"
+    },
+    {
+        "id": 2,
+        "name": "Alternating Curl - Seated",
+        "muscle_group": "Biceps",
+        "movement_type": "Isolated",
+        "equipment": "DB",
+        "chain": "Anterior",
+        "difficulty": "Beginner",
+        "url": "https://vimeo.com/597302805",
+        "vimeo_id": "597302805"  
+    },
+    {
+        "id": 3,
+        "name": "Alternating DB Snatch",
+        "muscle_group": "Multiple",
+        "movement_type": "Compound",
+        "equipment": "DB",
+        "chain": ["Anterior", "Posterior"],
+        "difficulty": "Intermediate",
+        "url": "https://vimeo.com/597303652",
+        "vimeo_id": "597303652"
+    }
+    ]
