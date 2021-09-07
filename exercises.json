@@ -27,7 +27,7 @@
         "muscle_group": "Multiple",
         "movement_type": "Compound",
         "equipment": "DB",
-        "chain": ["Both"],
+        "chain": "Both",
         "difficulty": "Intermediate",
         "url": "https://vimeo.com/597303652",
         "vimeo_id": "597303652"
