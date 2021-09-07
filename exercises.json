@@ -31,5 +31,16 @@
         "difficulty": "Intermediate",
         "url": "https://vimeo.com/597303652",
         "vimeo_id": "597303652"
+    },
+    {
+        "id": 4,
+        "name": "Bench Press",
+        "muscle_group": "Chest",
+        "movement_type":"Compound",
+        "equipment":"BB",
+        "chain":"Anterior",
+        "difficulty":"Intermediate",
+        "url":"https://vimeo.com/597281394",
+        "vimeo_id": "597281394"
     }
 ]
