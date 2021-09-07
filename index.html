@@ -4,12 +4,49 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Build Yourself Exercise Compiler</title>
-    
+    <link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.min.css">
+    <title>Build Yourself Workout Designer</title>
 </head>
 <body>
-    <h1>Hello World</h1>
-    <p>I'm Hosted with GitHub Pages</p>
-    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Build Yourself</a>
+        </div>
+    </nav>
+    <div class="container searchContainer">
+        <div class="search card card-body">
+            <h3>Search Exercise Database</h3>
+            <p class="text-muted">Type exercise name</p>
+            <input type="text" id="searchExercise" class="form-control" placeholder="Exercise Name">
+        </div>
+
+        <table class="table table-hover">
+            <thead>
+            <tr>
+            <th scope="col"></th>
+            <th scope="col">Name</th>
+            <th scope="col">Muscle Group</th>
+            <th scope="col">Movement Type</th>
+            <th scope="col">Equipment</th>
+            <th scope="col">Chain</th>
+            <th scope="col">Difficulty</th>
+            </tr>
+            </thead>
+            <tbody id="exerciseList">
+          
+        
+        </tbody>
+        </table>
+
+
+
+    </div>
+
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+
+<script src="github.js"></script>
+<script src="ui.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
