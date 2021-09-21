@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "Alternating Curl",
+        "name": "Alternating Biceps Curl",
         "muscle": "Biceps",
         "movement": "Isolated",
         "equipment": "DB",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "name": "Alternating Curl - Seated",
+        "name": "Alternating Biceps Curl - Seated",
         "muscle": "Biceps",
         "movement": "Isolated",
         "equipment": "DB",
