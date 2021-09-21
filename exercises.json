@@ -2,8 +2,8 @@
     {
         "id": 1,
         "name": "Alternating Curl",
-        "muscle_group": "Biceps",
-        "movement_type": "Isolated",
+        "muscle": "Biceps",
+        "movement": "Isolated",
         "equipment": "DB",
         "chain": "Anterior",
         "difficulty": "Beginner",
@@ -13,8 +13,8 @@
     {
         "id": 2,
         "name": "Alternating Curl - Seated",
-        "muscle_group": "Biceps",
-        "movement_type": "Isolated",
+        "muscle": "Biceps",
+        "movement": "Isolated",
         "equipment": "DB",
         "chain": "Anterior",
         "difficulty": "Beginner",
@@ -24,8 +24,8 @@
     {
         "id": 3,
         "name": "Alternating DB Snatch",
-        "muscle_group": "Multiple",
-        "movement_type": "Compound",
+        "muscle": "Multiple",
+        "movement": "Compound",
         "equipment": "DB",
         "chain": "Both",
         "difficulty": "Intermediate",
@@ -35,8 +35,8 @@
     {
         "id": 4,
         "name": "Bench Press",
-        "muscle_group": "Chest",
-        "movement_type":"Compound",
+        "muscle": "Chest",
+        "movement":"Compound",
         "equipment":"BB",
         "chain":"Anterior",
         "difficulty":"Intermediate",
