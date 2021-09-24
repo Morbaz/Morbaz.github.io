@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Alternating Biceps Curl",
         "muscle": "Biceps",
-        "muscle2": null,
+        "muscle2": " ",
         "movement": "Isolated",
         "equipment": "DB",
         "chain": "Anterior",
