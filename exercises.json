@@ -42,5 +42,17 @@
         "difficulty":"Intermediate",
         "url":"https://vimeo.com/597281394",
         "vimeo_id": "597281394"
+    },
+    {
+        "id": 5,
+        "name": "Arnold Curl to Arnold Press",
+        "muscle": "Biceps Anterior Deltoid",
+        "movement":"Combo",
+        "equipment":"DB",
+        "chain":"Anterior",
+        "difficulty":"Intermediate",
+        "url":"https://vimeo.com/599716960",
+        "vimeo_id": "599716960"    
+    
     }
 ]
