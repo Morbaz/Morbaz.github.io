@@ -46,7 +46,8 @@
     {
         "id": 5,
         "name": "Arnold Curl To Arnold Press",
-        "muscle": ["Anterior Deltoid ", "Biceps "],
+        "muscle": "Biceps",
+        "muscle2": "Anterior Deltoid",
         "movement":"Combo",
         "equipment":"DB",
         "chain":"Anterior",
