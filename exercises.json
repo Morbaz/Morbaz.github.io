@@ -8,7 +8,8 @@
         "chain": "Anterior",
         "difficulty": "Beginner",
         "url": "https://vimeo.com/597302433",
-        "vimeo_id": "597302433"
+        "vimeo_id": "597302433",
+        "thumbnail": "https://i.vimeocdn.com/video/1232091051-98abb14098c0fd1ec5f5a77649ba849a4d9a12b764b3b666155d40541b5cc233-d_240"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
         "chain": "Anterior",
         "difficulty": "Beginner",
         "url": "https://vimeo.com/597302805",
-        "vimeo_id": "597302805"  
+        "vimeo_id": "597302805",
+        "thumbnail": "https://i.vimeocdn.com/video/1232091229-9f97e199805db339e7841e6c350e2dedc8e2fd1966a81f89adc3e861cfc27ef3-d_240"    
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
         "chain": "Both",
         "difficulty": "Intermediate",
         "url": "https://vimeo.com/597303652",
-        "vimeo_id": "597303652"
+        "vimeo_id": "597303652",
+        "thumbnail": "https://i.vimeocdn.com/video/1232093127-c9421652b89e398b5644b8feb4c03e18ea531e8764ceda0dbbc3737230e743f7-d_240"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
         "chain":"Anterior",
         "difficulty":"Intermediate",
         "url":"https://vimeo.com/597281394",
-        "vimeo_id": "597281394"
+        "vimeo_id": "597281394",
+        "thumbnail": "https://i.vimeocdn.com/video/1232062737-cd652710cd38dcbdeaf9cf9e68217243a426dcdd746a001939aa0ae84d3d962b-d_240"
     },
     {
         "id": 5,
@@ -53,7 +57,8 @@
         "chain":"Anterior",
         "difficulty":"Intermediate",
         "url":"https://vimeo.com/599716960",
-        "vimeo_id": "599716960"    
+        "vimeo_id": "599716960",
+        "thumbnail": "https://i.vimeocdn.com/video/1235322598-79a235a86038ae6145ff4599803e51a73b3275b6eca82a1307d14bd1099c38aa-d_240"    
     
     }
 ]
