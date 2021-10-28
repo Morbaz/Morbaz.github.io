@@ -60,5 +60,39 @@
         "vimeo_id": "599716960",
         "thumbnail": "https://i.vimeocdn.com/video/1235322598-79a235a86038ae6145ff4599803e51a73b3275b6eca82a1307d14bd1099c38aa-d_240"    
     
+    },
+    {
+        "id": 6,
+        "name": "Seated Alternating Hammer Curl",
+        "muscle": "Biceps",
+        "movement": "Isolated",
+        "equipment": "DB",
+        "chain": "Anterior",
+        "difficulty": "Beginner",
+        "url": "https://vimeo.com/640012714",
+        "vimeo_id": "640012714"
+    },
+     {
+        "id": 7,
+        "name": "Alternating Hammer Curl",
+        "muscle": "Biceps",
+        "movement": "Isolated",
+        "equipment": "DB",
+        "chain": "Anterior",
+        "difficulty": "Beginner",
+        "url": "https://vimeo.com/640013079",
+        "vimeo_id": "640013079"
+    },
+    {
+        "id": 8,
+        "name": "Arnold Twist Curl",
+        "muscle": "Biceps",
+        "movement": "Isolated",
+        "equipment": "DB",
+        "chain": "Anterior",
+        "difficulty": "Intermediate",
+        "url": "https://vimeo.com/640014645",
+        "vimeo_id": "640014645"
     }
+    
 ]
